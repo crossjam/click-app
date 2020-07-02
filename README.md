@@ -1,4 +1,4 @@
-# click-app cookiecutter template
+n# click-app cookiecutter template
 
 Cookiecutter template for creating new Click command-line tools.
 
