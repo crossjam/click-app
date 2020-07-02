@@ -1,6 +1,12 @@
-# click-app cookiecutter template
+n# click-app cookiecutter template
 
 Cookiecutter template for creating new Click command-line tools.
+
+Forked from Simon Willison’s original:
+https://github.com/simonw/click-app
+
+[Customized by crossjam](https://github.com/crossjam/click-app),
+mainly to add in my particular on Python logging configuration in CLIs.
 
 ## Installation
 
